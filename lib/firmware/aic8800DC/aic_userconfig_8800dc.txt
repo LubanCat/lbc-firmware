@@ -37,6 +37,10 @@ lvl_11ax_mcs9_2g4=16
 lvl_11ax_mcs10_2g4=15
 lvl_11ax_mcs11_2g4=15
 
+# txpwr_loss
+loss_enable=0
+loss_value=2
+
 # txpwr_ofst
 ofst_enable=0
 ofst_chan_1_4=0
@@ -51,4 +55,6 @@ ofst_chan_142_165=0
 xtal_enable=0
 xtal_cap=24
 xtal_cap_fine=31
+
+
 
